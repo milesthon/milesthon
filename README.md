@@ -8,6 +8,6 @@ Hello, world!
 
 ***
 
+[![LinkedIn](https://img.shields.io/badge/My_Website-2ea44f?style=for-the-badge&logo=Earth&logoColor=white)](https://milesthon.github.io)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCy2JxQdX8dT2Tbj4ykUkqFw)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0076FE)](https://VK.com/id180544766)
-[![LinkedIn](https://img.shields.io/badge/My_Website-2ea44f?style=for-the-badge&logo=Earth&logoColor=white)](https://milesthon.github.io)
